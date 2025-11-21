@@ -1,4 +1,4 @@
-
+<img width="1050" height="334" alt="image" src="https://github.com/user-attachments/assets/59e5d295-8b66-4ebf-ac9c-fb1480334a6a" />
 <img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/511b5d42-37ce-413f-a9c5-da7387e4eb75" />
 
 ## Datadog Guide for Service monitoring
@@ -44,6 +44,7 @@
 
 - Tags are a way of adding dimensions to Datadog telemetries so that they can be filtered, aggregated and compared in Datadog visualizations.
 - Example: `version: stage` or `version: prod`
+- Two types of tags: `System` tags and `Custom` tags.
 
 
 ## Datadog Agent
@@ -57,8 +58,24 @@
 - Main config files are `datadog.yaml` (including `config.toml` for macOS).
 
 
+## Infrastructure page
 
 
+<img width="1202" height="357" alt="image" src="https://github.com/user-attachments/assets/9a319531-210a-4ab5-bb34-829eaf690537" />
+
+- All hosts are listed in this page.
+
+
+<img width="931" height="206" alt="image" src="https://github.com/user-attachments/assets/a1c88319-a155-4a76-addd-7beef1b6e1d8" />
+
+- On clicking on a host, there are multiple sections such as `Host Info`, `Metrics`, `Logs` etc.
+
+## Dashboard page
+
+<img width="1050" height="334" alt="image" src="https://github.com/user-attachments/assets/625f0874-a56c-4e8a-afee-8de149ea2cad" />
+
+- Click on `Open in host dashboard` to open a detailed dashboard page for a host.
+- It has option of cloning the dashboard and a timeframe button. 
 
 
 
