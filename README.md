@@ -1,4 +1,3 @@
-<img width="1050" height="334" alt="image" src="https://github.com/user-attachments/assets/59e5d295-8b66-4ebf-ac9c-fb1480334a6a" />
 <img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/511b5d42-37ce-413f-a9c5-da7387e4eb75" />
 
 ## Datadog Guide for Service monitoring
@@ -78,7 +77,7 @@
 - It has option of cloning the dashboard and a timeframe button. 
 
 
-
+<a href="page2.md"> Next Page (Metrics Explorer) </a>
 
 
 
